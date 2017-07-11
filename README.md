@@ -13,8 +13,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 04 | 7/5 | Databases and Scrapping | | |
 =======
 | [04](./classes/04) | 7/5 | [Databases and Scrapping](./classes/04) | | |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 05 | 7/10 | Exploratory Data Analysis | | |
+=======
+| [05](./classes/05) | 7/10 | [Exploratory Data Analysis](./classes/05) | | |
+>>>>>>> upstream/master
 | 06 | 7/12 | _k_-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
 | 07 | 7/17 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
 | 08 | 7/19 | Linear Regression | **[Final Project 1](./final-project/1)** | |
