@@ -40,8 +40,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 09 | 7/24 | Linear Regression, Part 2 | **[Unit Project 2](./unit-project/2)** | |
 =======
 | [09](./classes/09) | 7/24 | [Linear Regression, Part 2](./classes/09) | **[Unit Project 2](./unit-project/2)** | |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 10 | 7/26 | Linear Regression, Part 3 | | **[Final Project 1](./final-project/1)** |
+=======
+| [10](./classes/10) | 7/26 | [Linear Regression, Part 3](./classes/10) | | **[Final Project 1](./final-project/1)** |
+>>>>>>> upstream/master
 | 11 | 7/31 | Regularization | | **[Unit Project 2](./unit-project/2)** |
 | 12 | 8/2 | Logistic Regression | | |
 | 13 | 8/7 | Machine Learning Modeling Challenge | **[Final Project 2](./final-project/2)** | |
