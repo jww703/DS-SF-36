@@ -50,8 +50,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 11 | 7/31 | Regularization | | **[Unit Project 2](./unit-project/2)** |
 =======
 | [11](./classes/11) | 7/31 | [Regularization](./classes/11) | | **[Unit Project 2](./unit-project/2)** |
+<<<<<<< HEAD
 >>>>>>> upstream/master
 | 12 | 8/2 | Logistic Regression | | |
+=======
+| [12](./classes/12) | 8/2 | [Logistic Regression](./classes/12) | | |
+>>>>>>> upstream/master
 | 13 | 8/7 | Machine Learning Modeling Challenge | **[Final Project 2](./final-project/2)** | |
 | 14 | 8/9 | Advanced Metrics | **[Unit Project 3](./unit-project/3)** | |
 | 15 | 8/14 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
